@@ -70,8 +70,8 @@
 }
 @keyframes charging {
     0% {
-          background-color: yellow;
-          width: 100px;
+        background-color: yellow;
+        width: 100px;
     }
     50% {
         background-color: blue;
@@ -81,3 +81,4 @@
         background-color: green;
         width: 300px;
     }
+}
